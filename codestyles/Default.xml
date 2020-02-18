@@ -1,0 +1,30 @@
+<code_scheme name="Default" version="173">
+  <CssCodeStyleSettings>
+    <option name="BRACE_PLACEMENT" value="1" />
+  </CssCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  </JavaCodeStyleSettings>
+  <LessCodeStyleSettings>
+    <option name="BRACE_PLACEMENT" value="1" />
+  </LessCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="BRACE_PLACEMENT" value="1" />
+  </ScssCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>

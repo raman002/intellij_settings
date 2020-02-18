@@ -1,0 +1,27 @@
+<keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="Debugger.EditTypeSource">
+    <keyboard-shortcut first-keystroke="shift f4" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="NavBar-navigate">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Spy-js.JumpToSource">
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
