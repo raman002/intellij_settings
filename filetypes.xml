@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="InsertEventMethod" type="CLASS" />
+      <mapping pattern="imports" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
