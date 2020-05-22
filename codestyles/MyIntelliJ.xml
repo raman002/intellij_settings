@@ -5,6 +5,10 @@
   <LessCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </LessCodeStyleSettings>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <ScssCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </ScssCodeStyleSettings>
