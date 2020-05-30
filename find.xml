@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\web-services\src\main\resources\database\migrations\default\V1.1__Initial_data.sql [web-services]'" />
+    <option name="defaultScopeName" value="File '...\web-services\src\main\resources\database\migrations\default\V1.1__Initial_data.sql [web-services]'" />
+    <option name="SEARCH_SCOPE" value="File '...\web-services\src\main\resources\database\migrations\default\V1.1__Initial_data.sql [web-services]'" />
   </component>
 </application>
