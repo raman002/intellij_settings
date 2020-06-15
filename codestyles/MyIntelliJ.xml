@@ -2,6 +2,11 @@
   <CssCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </CssCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
+  </JavaCodeStyleSettings>
   <LessCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </LessCodeStyleSettings>
