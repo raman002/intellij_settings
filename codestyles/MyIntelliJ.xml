@@ -2,9 +2,18 @@
   <CssCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </CssCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+    <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
+  </JavaCodeStyleSettings>
   <LessCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </LessCodeStyleSettings>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <ScssCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </ScssCodeStyleSettings>
