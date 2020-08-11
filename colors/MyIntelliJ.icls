@@ -4,10 +4,10 @@
     <property name="created">2020-03-27T19:31:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-05-21T16:38:19</property>
+    <property name="modified">2020-08-11T16:14:46</property>
     <property name="originalScheme">MyIntellijj</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
 </scheme>
